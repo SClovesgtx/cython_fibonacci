@@ -1,6 +1,7 @@
 build:
-	# easycython *.pyx
+	easycython fib_px.pyx
 	easycython fib_cy.py
+	easycython fib_typing_cy.py
 
 clean:
 	@echo "Limpando arquivos gerados pelo build do cython."
