@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "cython-fibonacci"
+version = "0.1.0"
+description = ""
+authors = ["Cloves Paiva <cloves.paiva@extremedigital.com.br>"]
+readme = "README.md"
+packages = [{include = "cython_fibonacci"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+cython = "^0.29.32"
+easycython = "^1.0.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
