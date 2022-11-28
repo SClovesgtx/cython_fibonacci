@@ -1,10 +1,10 @@
-# O que é este "projeto"?
+# Sobre o que é este "projeto"?
 
 Este projeto é uma anotação do live [Introdução ao Cython - Live de Python #182](https://www.youtube.com/watch?v=wfjJWf-jebI&t) transmitida pelo Eduardo Mendes.
 
 # Objetivo
 
-Otimizar uma função, escreita em python puro, que aplica Fibonacci. 
+Otimizar uma função, escrita em python puro, que aplica Fibonacci. 
 
 As tentativas de otimizar a função em *fib_py.py* são as seguintes:
 
