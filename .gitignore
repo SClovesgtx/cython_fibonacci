@@ -1,6 +1,6 @@
 __pycache__
 *.lock
 build/
-*.c
+f*.c
 *.so
 *.html
